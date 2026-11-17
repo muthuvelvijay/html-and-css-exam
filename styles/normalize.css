@@ -1,0 +1,7 @@
+/* Small normalize stylesheet */
+html { line-height: 1.15; -webkit-text-size-adjust: 100%; }
+body { margin: 0; }
+main, header, nav, aside, footer, section, article { display: block; }
+img { border-style: none; }
+a { background-color: transparent; }
+* { box-sizing: border-box; }
